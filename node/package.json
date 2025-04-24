@@ -1,0 +1,25 @@
+{
+    "name": "secure-qr",
+    "version": "1.0.0",
+    "description": "A secure QR code generator with encryption",
+    "main": "secure-qr.js",
+    "scripts": {
+      "test": "node secure-qr-example.js"
+    },
+    "keywords": [
+      "qr",
+      "encryption",
+      "security",
+      "aes",
+      "node"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "qrcode": "^1.5.3"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/secure-qr.git"
+    }
+  }
